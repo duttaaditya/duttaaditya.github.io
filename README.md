@@ -1,2 +1,2 @@
-# duttaaditya.github.io
+# duttaditya.github.io
  Personal Website - Aditya Dutta
