@@ -128,3 +128,13 @@ body {
 .profile-text-rightcol h1 {
     color: lightseagreen;
 }
+
+.blogs-content {
+    padding: 30px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.blog {
+    border-top: 1px solid black;
+}
