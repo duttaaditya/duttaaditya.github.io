@@ -1,0 +1,62 @@
+.body {
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.navbar {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftnav {
+    display: flex;
+}
+
+.navbutton {
+    margin-right: 20px;
+    display: flex;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    text-align: center;
+    height: 22px;
+    border-bottom: 1px transparent solid;
+}
+
+.navbutton:hover {
+    border-bottom: black 1px solid  ;
+    transition: border-bottom 0.5s;
+}
+
+.navbutton a {
+    text-decoration: none;
+    color: #8a8a8a ;
+}
+
+.navbutton:hover a {
+    color: black;
+    transition: color 0.5s;
+}
+
+.actlink {
+    border-bottom: black solid 1px;
+}
+
+.actlink a {
+    color: black;
+}
+
+.rightnav {
+    display: flex;
+}
+
+.fullname {
+    font-family: montserrat, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+}
